@@ -1,29 +1,28 @@
-# calculadora-probabilidade
+# Calculadora de Probabilidade Baseada em Eventos Tabelados
 
-## Project setup
+Ensinando o computador, por meio de texto, sobre um determinado assunto e possível realizar estimativas sobre o conhecimento adicionado.
+
+## Tecnologias implementadas:
+- [Firebase Authentication](https://firebase.google.com/docs/auth/?hl=pt-br)
+- [Firebase Realtime Database](https://firebase.google.com/docs/database/?hl=pt-br)
+- [Node](https://nodejs.org/en/)
+- [Vuetify](https://vuetifyjs.com)
+- [VueJs](https://vuejs.org/) 
+
+### Configurar o projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilação para produção
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Para configurações customizadas
+Veja [Configuration Reference](https://cli.vuejs.org/config/).
